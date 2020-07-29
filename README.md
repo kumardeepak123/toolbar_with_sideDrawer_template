@@ -1,2 +1,2 @@
 # vyoriusproject
-It is a  full responsive react app
+It is a  fully responsive react app
